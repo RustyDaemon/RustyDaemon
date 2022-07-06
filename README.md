@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Love .NET/C# and other languages.
+
+Want to start a new project? - [check this out](https://initproj.tips)
+
+---
+Fun facts: do Blender magic as well
+
+[[LinkedIn](https://linkedin.com/in/rustamirzaev)], [[ArtStation](https://www.artstation.com/rustam_irzaiev)]
+
 <!--
 **RustamIrzaev/RustamIrzaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
