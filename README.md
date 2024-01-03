@@ -2,8 +2,6 @@
 
 🦄 .NET, React and other things.
 
-Want to start a new project? - [check this out](https://initproj.tips)
-
 ---
 
 [LinkedIn ⚒️](https://linkedin.com/in/rustamirzaev), [Website 🖇️](https://irzaev.dev), [YouTube 📹](https://www.youtube.com/c/RustamIrzaev), [ArtStation 🎨](https://www.artstation.com/rustam_irzaiev)
