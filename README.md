@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🦄 .NET, React and other things.
+🦄 .NET, Rust, React and other things.
 
 <!--
 ---
