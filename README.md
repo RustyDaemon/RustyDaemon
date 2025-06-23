@@ -2,6 +2,9 @@
 
 🦄 .NET, Go, React, Rust, Lua, C++ - you name it
 
+---
+AI-built, panic-polished, vibe-deployed - [Funny Apps](https://funnyapps.netlify.app/) challenge.
+
 <!--
 **RustamIrzaev/RustamIrzaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
