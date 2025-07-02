@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🦄 .NET, Go, React, Rust, Lua, C++ - you name it
+🦄 .NET/C#, Go, React, Rust, Lua, C++ - you name it
 
 ---
 AI-built, panic-polished, vibe-deployed - [Funny Apps](https://funnyapps.netlify.app/) challenge.
