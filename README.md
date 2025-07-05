@@ -18,7 +18,7 @@ Currently geeking out over **Go** and **C++** - you name it, I probably played w
 
 ### 🚀 Challenges:
 🧪 **AI-built, panic-polished, vibe-deployed**.
-Check out [Funny Apps](https://funnyapps.netlify.app/) - a challenge turned creative chaos.
+Check out [Funny Apps](https://funnyapps.directory/) - a challenge turned creative chaos.
 
 
 
