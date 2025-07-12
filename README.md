@@ -20,6 +20,9 @@ Currently geeking out over **Go**, **C++** and other things - you name it, I pro
 🧪 **AI-built, panic-polished, vibe-deployed**.
 Check out [Funny Apps](https://funnyapps.directory/) - a challenge turned creative chaos.
 
+### 🧑‍💻 Projects:
+Compare AI pricing across providers instantly - [AI Pricing Dashboard](https://aiprice.netlify.app/models).
+
 
 
 <!--🦄 Tech I work with:  
