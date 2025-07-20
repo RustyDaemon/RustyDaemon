@@ -23,6 +23,8 @@ Check out [Funny Apps](https://funnyapps.directory/) - a challenge turned creati
 ### 🧑‍💻 Projects:
 Compare AI pricing across providers instantly - [AI Pricing Dashboard](https://aiprice.netlify.app/models).
 
+### ☄️ VS Code extensions:
+A VS Code extension that analyzes and displays license information for project dependencies - [Code Licenses](https://marketplace.visualstudio.com/items?itemName=RustyDaemon.code-licenses).
 
 
 <!--🦄 Tech I work with:  
