@@ -16,16 +16,17 @@ Currently geeking out over **Go**, **C++** and other things - you name it, I pro
 
 ---
 
-### 🚀 Challenges:
-🧪 **AI-built, panic-polished, vibe-deployed**.
-Check out [Funny Apps](https://funnyapps.directory/) - a challenge turned creative chaos.
-
 ### 🧑‍💻 Projects:
+Simple disk media management for your home lab - [HomeMedia on dockerHub](https://hub.docker.com/r/rustydaemon/homemedia-ui).
+
 Compare AI pricing across providers instantly - [AI Pricing Dashboard](https://aiprice.netlify.app/models).
 
 ### ☄️ VS Code extensions:
 A VS Code extension that analyzes and displays license information for project dependencies - [Code Licenses](https://marketplace.visualstudio.com/items?itemName=RustyDaemon.code-licenses).
 
+### 🚀 Challenges:
+🧪 **AI-built, panic-polished, vibe-deployed**.
+Check out [Funny Apps](https://funnyapps.directory/) - a challenge turned creative chaos.
 
 <!--🦄 Tech I work with:  
 `.NET / C#`, `Go`, `Rust`, `React`, `Lua`, `C++` — you name it, I probably played with it.
