@@ -21,6 +21,8 @@ Simple disk media management for your home lab - [HomeMedia on dockerHub](https:
 
 Compare AI pricing across providers instantly - [AI Pricing Dashboard](https://aiprice.netlify.app/models).
 
+The simpliest UPS calculator - [UPS Calculator](https://ups-calc.netlify.app/).
+
 ### ☄️ VS Code extensions:
 A VS Code extension that analyzes and displays license information for project dependencies - [Code Licenses](https://marketplace.visualstudio.com/items?itemName=RustyDaemon.code-licenses).
 
