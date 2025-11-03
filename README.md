@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**.NET/Azure expert** and **team leader** who thrives on solving complex problems.  
+**Generalist engineer** who thrives on solving complex problems.  
 Currently geeking out over **Go**, **C++** and other things - you name it, I probably played with it.
 
 ### 🦄 Tech stack:
