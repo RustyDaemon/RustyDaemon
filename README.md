@@ -19,8 +19,6 @@ Currently geeking out over **Go**, **C++** and other things - you name it, I pro
 ### 🧑‍💻 Projects:
 Simple disk media management for your home lab - [HomeMedia on dockerHub](https://hub.docker.com/r/rustydaemon/homemedia-ui).
 
-Compare AI pricing across providers instantly - [AI Pricing Dashboard](https://aiprice.netlify.app/models).
-
 The simpliest UPS calculator - [UPS Calculator](https://ups-calc.netlify.app/).
 
 ### ☄️ VS Code extensions:
@@ -37,5 +35,5 @@ Check out [Funny Apps](https://funnyapps.directory/) - a challenge turned creati
 <!-- 🦄 .NET/C#, Go, React, Rust, Lua, C++ - you name it -->
 <!--
 ---
-AI-built, panic-polished, vibe-deployed - [Funny Apps](https://funnyapps.netlify.app/) challenge.
+https://funnyapps.netlify.app
 -->
