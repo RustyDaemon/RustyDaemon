@@ -19,6 +19,7 @@ Currently geeking out over **Go**, **C++** and other things - you name it, I pro
 ### 🧑‍💻 Projects:
 Simple disk media management for your home lab - [HomeMedia on dockerHub](https://hub.docker.com/r/rustydaemon/homemedia-ui).
 
+<!--
 The simpliest UPS calculator - [UPS Calculator](https://ups-calc.netlify.app/).
 
 ### ☄️ VS Code extensions:
@@ -27,6 +28,7 @@ A VS Code extension that analyzes and displays license information for project d
 ### 🚀 Challenges:
 🧪 **AI-built, panic-polished, vibe-deployed**.
 Check out [Funny Apps](https://funnyapps.directory/) - a challenge turned creative chaos.
+-->
 
 <!--🦄 Tech I work with:  
 `.NET / C#`, `Go`, `Rust`, `React`, `Lua`, `C++` — you name it, I probably played with it.
