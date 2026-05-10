@@ -17,7 +17,7 @@ Currently geeking out over **Go**, **C++** and other things - you name it, I pro
 ---
 
 ### 🧑‍💻 Projects:
-Simple disk media management for your home lab - [HomeMedia on dockerHub](https://hub.docker.com/r/rustydaemon/homemedia-ui).
+Disk media management for your home lab - [HomeMedia on dockerHub](https://hub.docker.com/r/rustydaemon/homemedia).
 
 <!--
 The simpliest UPS calculator - [UPS Calculator](https://ups-calc.netlify.app/).
