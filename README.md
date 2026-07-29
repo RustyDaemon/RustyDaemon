@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **Generalist engineer** who thrives on solving complex problems.  
-Currently geeking out over **Go**, **C++** and other things - you name it, I probably played with it.
+Currently geeking out over **Go**, **C++** and other things. You name it, I probably played with it.
 
 ### 🦄 Tech stack:
 ![.NET/C#](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
