@@ -19,8 +19,6 @@ Currently geeking out over **Go**, **C++** and other things. You name it, I prob
 ### 🧑‍💻 Projects:
 Disk media management for your home lab - [HomeMedia on dockerHub](https://hub.docker.com/r/rustydaemon/homemedia).
 
-Wait, what is it? [Sweep application for Devs ??](https://reposweep.app)
-
 <!--
 The simpliest UPS calculator - [UPS Calculator](https://ups-calc.netlify.app/).
 
